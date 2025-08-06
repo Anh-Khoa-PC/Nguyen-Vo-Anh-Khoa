@@ -30,7 +30,29 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
   <img src="https://img.shields.io/badge/Ring-000000?style=for-the-badge&logo=ring&logoColor=white" alt="Ring"/>
 </p>
 
-#### GitHub Stats
+---
+
+### 🛠️ Kỹ năng và Công nghệ
+
+<p align="center">
+  <h4>🌐 Web & Software Development</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,go,python,docker,kubernetes,aws,gcp" />
+</p>
+
+<p align="center">
+  <h4>🔒 Security & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,git,linux,github,burpsuite" />
+</p>
+
+<p align="center">
+  <h4>🎨 Creative</h4>
+  <img src="https://skillicons.dev/icons?i=figma,pr,ae,ps,ai" />
+</p>
+
+---
+
+### 📊 Hoạt động & Thống kê
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anh-Khoa-PC&theme=juicy-fresh&row=1&no-bg=true" alt="GitHub Trophies" />
   <img src="https://streak-stats.demolab.com/?user=Anh-Khoa-PC&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" />
@@ -38,33 +60,12 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anh-Khoa-PC&show_icons=true&theme=buefy&hide_rank=false" alt="Nguyễn Võ Anh Khoa's GitHub Stats" />
-  <img src="https://github-readme-stats.app/api/top-langs/?username=Anh-Khoa-PC&layout=compact&theme=buefy" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anh-Khoa-PC&layout=compact&theme=buefy" alt="Top Languages" />
 </p>
 
----
-
-### 🛠️ Kỹ năng và Công nghệ
-
-<details>
-  <summary>💻 Web Development</summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,go" />
-  </p>
-</details>
-
-<details>
-  <summary>🔒 Security & Tools</summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=vscode,docker,git,linux,github,aws,gcp" />
-  </p>
-</details>
-
-<details>
-  <summary>🎨 Creative</summary>
-  <p>
-    <img src="https://skillicons.dev/icons?i=figma,pr,ae,ps,ai" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anh-Khoa-PC&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
