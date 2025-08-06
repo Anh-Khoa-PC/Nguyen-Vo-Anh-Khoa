@@ -10,36 +10,34 @@
   </a>
 </p>
 
-### 🚀 Giới thiệu về tôi
+### 🚀 Giới thiệu
 
-Tôi là một cá nhân đa năng đến từ Hồ Chí Minh, Việt Nam, đam mê công nghệ và sáng tạo. Với vai trò là **Founder của startup CR from VietNam**, tôi đang xây dựng những giải pháp công nghệ mang lại giá trị thực tiễn. Tôi cũng là một **Bug Hunter** nhiệt huyết và một **Fullstack Developer** với kinh nghiệm sâu rộng trong phát triển phần mềm và web.
+Tôi là một cá nhân đa năng đến từ Hồ Chí Minh, Việt Nam. Với vai trò là **Founder của startup CR from VietNam**, tôi đang xây dựng những giải pháp công nghệ mang lại giá trị thực tiễn. Tôi cũng là một **Bug Hunter** nhiệt huyết và một **Fullstack Developer** với kinh nghiệm sâu rộng trong phát triển phần mềm và web. Ngoài ra, tôi còn là một **Designer & Video Editor** freelancer từ năm 2022.
 
-### 🛡️ Thống kê Bug Hunter
+### 🛠️ Kỹ năng & Công nghệ
 
-Với vai trò bug hunter, tôi đã vinh dự được các tổ chức uy tín ghi nhận vì những đóng góp về bảo mật:
+<details>
+  <summary>💻 Web Development</summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,go" />
+  </p>
+</details>
 
-* **Plaid**
-* **Netflix**
-* **Grok**
-* **SKALE**
-* **Wickr**
-* **Audible**
-* **Ring**
-* **Facebook**
+<details>
+  <summary>🛡️ Tools & Security</summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vscode,docker,kubernetes,aws,gcp,git" />
+  </p>
+</details>
 
----
+<details>
+  <summary>🎨 Creative</summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=figma,pr,ae,ps,ai" />
+  </p>
+</details>
 
-### 🛠️ Kỹ năng và Công nghệ
-
-Đây là những công nghệ và công cụ tôi thường xuyên sử dụng để làm việc:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,go,docker,kubernetes,aws,gcp,figma,pr,ae,vscode" />
-</p>
-
----
-
-### 📈 Hoạt động & Thành tích GitHub
+### 📈 Thống kê GitHub của tôi
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Anh-Khoa-PC&theme=juicy-fresh&row=1&no-bg=true" alt="GitHub Trophies" />
@@ -47,8 +45,8 @@ Với vai trò bug hunter, tôi đã vinh dự được các tổ chức uy tín
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anh-Khoa-PC&show_icons=true&theme=vue-dark&hide_rank=false" alt="Nguyễn Võ Anh Khoa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anh-Khoa-PC&layout=compact&theme=vue-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anh-Khoa-PC&show_icons=true&theme=buefy&hide_rank=false" alt="Nguyễn Võ Anh Khoa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anh-Khoa-PC&layout=compact&theme=buefy" alt="Top Languages" />
 </p>
 
 ### 📊 Biểu đồ đóng góp
@@ -56,8 +54,6 @@ Với vai trò bug hunter, tôi đã vinh dự được các tổ chức uy tín
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anh-Khoa-PC&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
 
 ### 🌐 Kết nối với tôi
 
