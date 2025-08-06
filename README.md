@@ -12,11 +12,7 @@
 
 ### 🚀 Giới thiệu về tôi
 
-Chào bạn, tôi là Nguyễn Võ Anh Khoa, một nhà sáng lập, nhà phát triển và chuyên gia bảo mật đến từ Hồ Chí Minh, Việt Nam. **Sinh năm 2011**, tôi đã sớm dấn thân vào thế giới công nghệ và khởi nghiệp.
-
-* **Founder:** Tôi là nhà sáng lập của **CR from VietNam**, một startup đầy tiềm năng đang trên hành trình xây dựng và phát triển.
-* **Developer:** Chuyên về phát triển web và phần mềm, tôi luôn tìm tòi và ứng dụng những công nghệ mới nhất.
-* **Designer & Video Editor:** Từ năm 2022, tôi đã làm freelancer trong lĩnh vực thiết kế và chỉnh sửa video, mang đến những sản phẩm sáng tạo và chất lượng.
+Tôi là một cá nhân đa năng đến từ Hồ Chí Minh, Việt Nam, đam mê công nghệ và sáng tạo. Với vai trò là **Founder của startup CR from VietNam**, tôi đang xây dựng những giải pháp công nghệ mang lại giá trị thực tiễn. Tôi cũng là một **Bug Hunter** nhiệt huyết và một **Fullstack Developer** với kinh nghiệm sâu rộng trong phát triển phần mềm và web.
 
 ### 🛡️ Thống kê Bug Hunter
 
