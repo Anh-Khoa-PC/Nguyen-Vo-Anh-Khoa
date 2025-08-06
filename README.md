@@ -40,8 +40,12 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
 </p>
 
 <p align="center">
-  <h4>🔒 Security & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,git,linux,github,burpsuite" />
+  <h4>🔒 Security Tools</h4>
+  <img src="https://skillicons.dev/icons?i=linux,burpsuite,nmap,metasploit,wireshark,kali,vscode,git,github" />
+  <br>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-772953?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Nmap-306998?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-167900?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
 </p>
 
 <p align="center">
