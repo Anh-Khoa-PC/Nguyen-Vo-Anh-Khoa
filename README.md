@@ -1,65 +1,73 @@
-<h1 align="center">Xin chào, tôi là Nguyễn Võ Anh Khoa 👋</h1>
+<h1 align="center">Chào, tôi là Nguyễn Võ Anh Khoa 💎</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Founder;Bug+Hunter;Fullstack+Developer;Designer+%26+Video+Editor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Founder+CR+from+Vietnam;Bug+Hunter;White+Hat+Hacker;Security+Researcher;Fullstack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/Anh-Khoa-PC">
-    <img src="https://komarev.com/ghpvc/?username=Anh-Khoa-PC&label=Profile%20views&color=0e75b6&style=flat" alt="Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Anh-Khoa-PC&label=L%C6%B0%E1%BB%A3t%20truy%20c%E1%BA%ADp&color=0e75b6&style=flat" alt="Views"/>
   </a>
 </p>
 
-### 🚀 Giới thiệu & Mục tiêu
+---
 
-Chào bạn, tôi là một cá nhân đa năng đến từ Hồ Chí Minh, Việt Nam. Với vai trò là **Founder của startup CR from VietNam**, tôi đang xây dựng những giải pháp công nghệ đầy tham vọng.
-* **Mục tiêu:** Mở rộng startup và tiếp tục phát triển bản thân với tư cách là một chuyên gia bảo mật và nhà phát triển.
+## 🚀 Giới thiệu & Mục tiêu
+
+Tôi là **Nguyễn Võ Anh Khoa**, một **Founder** và chuyên gia an ninh mạng trẻ tuổi, sinh ra và lớn lên tại TP. Hồ Chí Minh, Việt Nam. Với đam mê mãnh liệt cho công nghệ và an ninh, tôi đã bắt đầu hành trình của mình từ năm 13 tuổi và đạt được nhiều thành công ban đầu trong lĩnh vực **Bug Bounty**.
+
+Là người sáng lập startup **CR**, tôi đang dẫn dắt đội ngũ của mình xây dựng những giải pháp đột phá, tập trung vào việc tạo ra các sản phẩm công nghệ chất lượng cao, an toàn và hiệu quả cho người dùng.
+
+### **✨ Mục tiêu:**
+* Phát triển **CR** trở thành một startup công nghệ hàng đầu, mang lại giá trị thực tiễn cho cộng đồng.
+* Tiếp tục trau dồi và củng cố vị thế là một chuyên gia an ninh mạng thông qua việc tìm kiếm và xử lý các lỗ hổng bảo mật.
 
 ---
 
-### 🏆 Thành tích & Đóng góp
+## 🏆 Thành tích & Giải thưởng
 
-#### Bug Hunting Accolades
-Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các tổ chức uy tín:
+Tôi vinh dự được các tổ chức uy tín trên toàn cầu công nhận nhờ những đóng góp trong việc phát hiện và báo cáo lỗ hổng bảo mật.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid"/>
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix"/>
+  <img src="https://img.shields.io/badge/Plaid-000000?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid"/>
   <img src="https://img.shields.io/badge/Audible-F45D00?style=for-the-badge&logo=audible&logoColor=white" alt="Audible"/>
   <img src="https://img.shields.io/badge/Ring-000000?style=for-the-badge&logo=ring&logoColor=white" alt="Ring"/>
 </p>
 
 ---
 
-### 🛠️ Kỹ năng và Công nghệ
+## 🛠️ Kỹ năng & Công nghệ chuyên sâu
 
+Với kinh nghiệm đa dạng từ phát triển phần mềm đến bảo mật, tôi tự tin làm việc với các công nghệ dưới đây để xây dựng và bảo vệ các hệ thống.
+
+### **🔒 Chuyên gia An ninh mạng (White Hat Hacker)**
 <p align="center">
-  <h4>🌐 Web & Software Development</h4>
+  <img src="https://skillicons.dev/icons?i=linux,kali,burpsuite,nmap,metasploit,wireshark,git,vscode" />
+  <br>
+  <img src="https://img.shields.io/badge/OWASP_ZAP-772953?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF4D4D?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+</p>
+
+### **🌐 Kỹ năng Lập trình & Phát triển Phần mềm**
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,go,python,docker,kubernetes,aws,gcp" />
 </p>
 
+### **🎨 Thiết kế & Sáng tạo**
 <p align="center">
-  <h4>🔒 Security Tools</h4>
-  <img src="https://skillicons.dev/icons?i=linux,burpsuite,nmap,metasploit,wireshark,kali,vscode,git,github" />
-  <br>
-  <img src="https://img.shields.io/badge/OWASP_ZAP-772953?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP"/>
-  <img src="https://img.shields.io/badge/Nmap-306998?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  <img src="https://img.shields.io/badge/Wireshark-167900?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
-<p align="center">
-  <h4>🎨 Creative</h4>
-  <img src="https://skillicons.dev/icons?i=figma,pr,ae,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" />
 </p>
 
 ---
 
-### 📊 Hoạt động & Thống kê
+## 📊 Thống kê & Hoạt động
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anh-Khoa-PC&theme=juicy-fresh&row=1&no-bg=true" alt="GitHub Trophies" />
-  <img src="https://streak-stats.demolab.com/?user=Anh-Khoa-PC&theme=highcontrast&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/Anh-Khoa-PC">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anh-Khoa-PC&theme=juicy-fresh&row=1&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
@@ -73,7 +81,7 @@ Tôi đã được ghi nhận vì những đóng góp về bảo mật cho các 
 
 ---
 
-### 🌐 Kết nối với tôi
+## 🌐 Kết nối với tôi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-v%C3%B5-anh-khoa-a893b1306/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
